@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Project Eco</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_geyser">geyser</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="aerosol1">
+        <a href="https://earth911.com/recycling-guide/how-to-recycle-aerosol-cans/">https://earth911.com/recycling-guide/how-to-recycle-aerosol-cans/</a>
+    </string>
+    <string name="aerosol2">
+        <a href="https://www.wikihow.com/Dispose-of-Aerosol-Cans">https://www.wikihow.com/Dispose-of-Aerosol-Cans</a>
+    </string>
+    <string name="steel">
+        <a href="https://www.rubicon.com/blog/steel-recycling/">https://www.rubicon.com/blog/steel-recycling/</a>
+    </string>
+    <string name="ferrous">
+        <a href="https://greenwaymetalrecycling.com/non-ferrous/#:~:text=Non-Ferrous%20metals%20can%20be%20recycled%20over%20and%20over.,do%20not%20contain%20a%20significant%20amount%20of%20iron.">https://greenwaymetalrecycling.com/</a>
+    </string>
+    <string name="nonferrous">
+        <a href="https://greenwaymetalrecycling.com/non-ferrous/#:~:text=Non-Ferrous%20metals%20can%20be%20recycled%20over%20and%20over.,do%20not%20contain%20a%20significant%20amount%20of%20iron.">https://greenwaymetalrecycling.com/</a>
+    </string>
+    <string name="aluminium">
+        <a href="https://en.wikipedia.org/wiki/Aluminium_recycling">https://en.wikipedia.org/wiki/Aluminium_recycling</a>
+    </string>
+    <string name="geyser1">
+        <a href="https://www.thinktankhome.com/water-heater-disposal/">https://www.thinktankhome.com/water-heater-disposal/</a>
+    </string>
+    <string name="geyser2">
+        <a href="https://www.orientelectric.com/home-appliances/water-heater">https://www.orientelectric.com/home-appliances/water-heater</a>
+    </string>
+    <string name="geyser3">
+        <a href="https://www.standardelectricals.com/water-heater/instant-water-heater.html">https://www.standardelectricals.com/water-heater/instant-water-heater.html</a>
+    </string>
+    <string name="oven">
+        <a href="https://greencitizen.com/microwave-recycling-how-to-dispose-of-your-microwave-oven/">https://greencitizen.com/microwave-recycling-how-to-dispose-of-your-microwave-oven/</a>
+    </string>
+    <string name="electric_cooker1">
+        <a href="https://thehelpingkitchen.com/rice-cooker-2/safety-and-maintenance-tips-for-rice-cooker/">https://thehelpingkitchen.com/rice-cooker-2/safety-and-maintenance-tips-for-rice-cooker/</a>
+    </string>
+    <string name="electric_cooker2">
+        <a href="https://www.weknowrice.com/blog/articles/rice-cooker-maintenance-and-safety-tips/">https://www.weknowrice.com/blog/articles/rice-cooker-maintenance-and-safety-tips/</a>
+    </string>
+    <string name="inverter1">
+        <a href="https://havenhillsynergy.com/tips-to-maintain-your-inverter-battery/">https://havenhillsynergy.com/tips-to-maintain-your-inverter-battery/</a>
+    </string>
+    <string name="inverter2">
+        <a href="https://www.bijlibachao.com/appliances/can-inverters-save-electricity-efficiency-energy-loss.html">https://www.bijlibachao.com/appliances/can-inverters-save-electricity-efficiency-energy-loss.html</a>
+    </string>
+    <string name="inverter3">
+        <a href="https://www.luminousindia.com/blog/post/quick-easy-tips-to-maintain-an-inverter-battery.html">https://www.luminousindia.com/blog/post/quick-easy-tips-to-maintain-an-inverter-battery.html</a>
+    </string>
+    <string name="pc1">
+        <a href="https://www.hp.com/us-en/shop/tech-takes/10-essential-computer-maintenance-tips">https://www.hp.com/us-en/shop/tech-takes/10-essential-computer-maintenance-tips</a>
+    </string>
+    <string name="pc2">
+        <a href="https://us.norton.com/internetsecurity-how-to-computer-maintenance.html">https://us.norton.com/internetsecurity-how-to-computer-maintenance.html</a>
+    </string>
+    <string name="pc3">
+        <a href="https://www.minitool.com/backup-tips/computer-maintenance.html">https://www.minitool.com/backup-tips/computer-maintenance.html</a>
+    </string>
+    <string name="wool1">
+        <a href="https://www.urbanthreads.com/tutorials.aspx?t=Sweater+Boots">https://www.urbanthreads.com/tutorials.aspx?t=Sweater+Boots</a>
+    </string>
+    <string name="wool2">
+        <a href="https://abeautifulmess.com/have-a-sweater-make-a-pom-pom-hat/">https://abeautifulmess.com/have-a-sweater-make-a-pom-pom-hat/</a>
+    </string>
+    <string name="textile1">
+        <a href="https://loepsie.com/wp-content/cache/page_enhanced/loepsie.com/2018/05/diy-reusable-cotton-rounds/_index.html_gzip">https://loepsie.com/wp-content/cache/page_enhanced/loepsie.com/2018/05/diy-reusable-cotton-rounds/_index.html_gzip</a>
+    </string>
+    <string name="textile2">
+        <a href="https://mommypotamus.com/how-to-make-recycled-t-shirt-potholders/">https://mommypotamus.com/how-to-make-recycled-t-shirt-potholders/</a>
+    </string>
+    <string name="glass">
+        <a href="https://mommypotamus.com/how-to-make-recycled-t-shirt-potholders/">https://mommypotamus.com/how-to-make-recycled-t-shirt-potholders/</a>
+    </string>
+    <string name="furniture1">
+        <a href="https://thehomesihavemade.com/2012/10/color-block-sandbox-wayfair-diy/">https://thehomesihavemade.com/2012/10/color-block-sandbox-wayfair-diy/</a>
+    </string>
+    <string name="furniture2">
+        <a href="http://photokapi.com/2012/07/old-dresser-to-a-bench-upcycle/">http://photokapi.com/2012/07/old-dresser-to-a-bench-upcycle/</a>
+    </string>
+    <string name="ceramics">
+        <a href="http://hobbylesson.com/repurposing-reusing-broken-dishes/">http://hobbylesson.com/repurposing-reusing-broken-dishes/</a>
+    </string>
+    <string name="bags">
+        <a href="https://youtu.be/qmtbHou9nGo">https://youtu.be/qmtbHou9nGo</a>
+    </string>
+    <string name="ammonia">
+        <a href="https://howtodispose.info/how-to-dispose-of-ammonia/">https://howtodispose.info/how-to-dispose-of-ammonia/</a>
+    </string>
+    <string name="eraser">
+        <a href="https://www.wikihow.com/Clean-an-Eraser">https://www.wikihow.com/Clean-an-Eraser</a>
+    </string>
+    <string name="greenwaste">
+        <a href="https://en.wikipedia.org/wiki/Sewage_treatment">https://en.wikipedia.org/wiki/Sewage_treatment</a>
+    </string>
+</resources>
